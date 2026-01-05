@@ -8,19 +8,19 @@ Installation
 ```bash
 # Kali Linux
 sudo apt install python3 python3-pip python3-tk
-git clone https://github.com/yourusername/urlguard.git
-cd urlguard
-pip3 install -r requirements.txt
+git clone https://github.com/mpratha528/urldetecter.git
+cd urldetecter
+pip install -r requirements.txt
 ```
 
 Run the Tool
 
 ```bash
 # Terminal version
-python3 urlscanner.py
+python3 url.py
 
 # GUI version  
-python3 urlguard_gui.py
+python3 url_gui.py
 ```
 
 ---
